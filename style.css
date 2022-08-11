@@ -1,0 +1,21 @@
+h1 {
+    padding: 1rem;
+}
+
+.bold-red {
+    color: red;
+    font-weight: bold;
+}
+
+.big {
+    font-size: 2rem;
+}
+
+p {
+    color: red;
+}
+
+p:hover {
+    color: green;
+    background-color: bisque;
+}
