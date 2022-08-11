@@ -1,0 +1,18 @@
+body {
+    background-image: url(./images/tool-background.jpeg);
+    padding: 3em;
+    color:azure;
+}
+
+a {
+    color: white
+}
+
+img {
+    width: 13em
+}
+
+.logo {
+    width: 3em;
+    padding: 0 1em 0 .5em
+}
